@@ -26,10 +26,6 @@
     "raphael-browserify": ">=2.0.0"
   },
   "license": "MIT",
-  "engines": {
-    "node": ">=0.6"
-  },
-
   "readmeFilename": "README.markdown",
   "bugs": {
     "url": "https://github.com/jigneshhk/node-g.raphael/issues"
