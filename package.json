@@ -14,7 +14,7 @@
   "main": "./g.raphael",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jigneshhk/node-g.raphael.git"
+    "url": "https://github.com/Ricardo-EE/node-g.raphael.git"
   },
   "keywords": [
     "graph",
@@ -27,10 +27,7 @@
   },
   "license": "MIT",
   "readmeFilename": "README.markdown",
-  "bugs": {
-    "url": "https://github.com/jigneshhk/node-g.raphael/issues"
-  },
-  "homepage": "https://github.com/jigneshhk/node-g.raphael.git",
+  "homepage": "https://github.com/Ricardo-EE/node-g.raphael.git",
   "_id": "node-g.raphael@0.0.1",
   "_from": "node-g.raphael@"
 }
